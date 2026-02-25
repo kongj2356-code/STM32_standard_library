@@ -1,2 +1,1 @@
-# STM32_standard_library
-本库收集了up自己编写的一些学习小项目
+# FOC单电机控制
